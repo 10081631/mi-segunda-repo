@@ -1,0 +1,74 @@
+* {
+    box-sizing: border-box;
+    margin: 0%;
+    padding: 0%;
+}
+
+body {
+    overflow-x: hidden;
+}
+
+h1 {
+    font-size: 20px;
+    color: #ffff;
+}
+
+.icon {
+    color: #ffff;
+}
+
+.links {
+    color: #ffff;
+}
+
+section {
+    margin-top: 50px;
+    height: 250px;
+}
+
+h2 {
+    font-size: 40px;
+    text-align: center;
+    color: rgb(12, 12, 12)
+}
+
+h5 {
+    margin-top: 20px;
+    font-size: 70px;
+}
+
+.paragraphe-h5 {
+    font-size: 20px;
+}
+
+h3 {
+    font-size: 25px;
+    text-align: center;
+}
+
+.paragraphe-h2 {
+    text-align: center;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+footer {
+    background-color: rgb(46, 41, 175);
+    height: 400px;
+}
+
+.card {
+    height: 300px;
+    margin-top: 40px;
+    background-color: rgb(46, 41, 175);
+    margin-left: 80px;
+    color: black;
+}
+
+.img-card {
+    height: 100px;
+    width: 150px;
+    text-align: center;
+    margin-left: 60px;
+    margin-top: 40px;
+}
